@@ -16,7 +16,7 @@ client.onMessageArrived = onMessageArrived;
 // Called when the connection is made
 function onConnect(){
     console.log("Connected!");
-
+}
 
 //-----------------------------------------------------------------------------------------------
 
